@@ -3,6 +3,10 @@ layout: post
 title: "MyPostOne"
 date: 2023-08-01 23:01:23 -0000
 categories: CATEGORY-1 CATEGORY-2
+tags: nice weather blobs
+author: me
 ---
+# Huna
+## Duna
 
-this is the post itself 🧮
+This is the post itself, yay! 🧮
