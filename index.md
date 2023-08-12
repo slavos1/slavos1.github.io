@@ -1,13 +1,10 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: page
+title:  Home
 author: me
 ---
 
-# Welcome
+# Landing
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
-
-[Link to about]({% link about.md %})
+[Link to about]({% link about %})
+[Link to about]({% post_url 2023-08-01-MyPostOne %})
